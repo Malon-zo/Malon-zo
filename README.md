@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+# I'm an aspiring software develeper currently studying at ZSEiI in Sosnowiec, Poland.
+I'm currently:
+- working on an internal app for my school in React Native
+- learning Python
+- studying for maturity exam 💀
+  
 <!--
 **Malon-zo/Malon-zo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
